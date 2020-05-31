@@ -1,4 +1,4 @@
-# shealth_to_gpx
+# Samsung Health data to GPX
 Simple batch converter for Samsung Health tracks to GPX.
 
 Usage:
