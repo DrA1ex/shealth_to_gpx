@@ -8,3 +8,4 @@ Usage:
 ```
 python3 samsung_json_to_gpx.py /path/to/unpacked/zip/
 ```
+4. Import GPX to Strava or whatever you want
